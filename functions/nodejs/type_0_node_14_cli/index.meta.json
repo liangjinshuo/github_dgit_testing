@@ -1,0 +1,16 @@
+{
+  "apiID": "package_b78990__c__function_aadifqwdbxkbq",
+  "apiName": "type_0_node_14_cli",
+  "label": {
+    "zh_CN": "type 0 node 14 cli",
+    "en_US": "type 0 node 14 cli"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
